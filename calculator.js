@@ -70,7 +70,7 @@
     if(typeof (number) === 'number'){
       total -= number;
     }else{
-      return 'digits yo!';
+      return 'digits yo?';
     }
    }
 
