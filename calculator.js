@@ -38,7 +38,7 @@ function calculatorModule(){
     if(typeof(number) === 'number'){
       total += number;
     }else{
-      return "enter a nunber";
+      return "enter a number";
     }
   }
 
